@@ -23,8 +23,7 @@ The goals / steps of this project are the following:
 [image3]: ./examples/right_2016_12_01_13_30_48_287.jpg
 [image4]: ./examples/left_flip.jpg
 [image5]: ./examples/MSE.png
-[image6]: ./examples/ModelStructure.jpg 
-[image7]: ./examples/placeholder_small.png "Flipped Image"
+[image6]: ./examples/ModelStructure.JPG 
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
