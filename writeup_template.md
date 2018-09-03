@@ -52,7 +52,7 @@ The model.py file contains the code for training and saving the convolution neur
 
 #### 1. An appropriate model architecture has been employed
 
-besides of 1 cropping layer, 1 lambda layer and 1 output layers, the final architecture included 5 convolutional layers (including pooling layers and activations), 1 flatten layer, 2 fully connected layers and 2 dropout layers. Here is a simple figure to show the structure of my model.
+Besides of 1 cropping layer, 1 lambda layer and 1 output layers, the final architecture included 5 convolutional layers (including pooling layers and activations), 1 flatten layer, 2 fully connected layers and 2 dropout layers. Here is a simple figure to show the structure of my model.
 
 ![ModelStructure][image6]
 
