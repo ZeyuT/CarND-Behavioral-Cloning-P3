@@ -72,17 +72,7 @@ Training data was chosen to keep the vehicle driving on the road. I used flippin
 
 For details about how I created the training data, see the next section. 
 
-### Model Architecture and Training Strategy
-
-#### 1. Final Model Architecture
-
-The final model architecture (model.py lines 18-24) consisted of a convolution neural network with the following layers and layer sizes ...
-
-Here is a visualization of the architecture (note: visualizing the architecture is optional according to the project rubric)
-
-![alt text][image1]
-
-#### 2. Creation of the Training Set & Training Process
+#### 5. Creation of the Training Set & Training Process
 
 I used the recorded data for track 1, from all of the left, right and center cameras. Here are example images from center lane, left side and right side:
 
