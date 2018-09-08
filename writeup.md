@@ -22,16 +22,13 @@ The following resources can be found in this github repository:
 * video.py
 * writeup_template.md
 
-The simulator can be downloaded from the classroom. In the classroom, we have also provided sample data that you can optionally use to help train your model.
+The simulator can be downloaded from the classroom. 
 
 ## Details About Files In This Directory
 
 ### `drive.py`
 
-Usage of `drive.py` requires you have saved the trained model as an h5 file, i.e. `model.h5`. See the [Keras documentation](https://keras.io/getting-started/faq/#how-can-i-save-a-keras-model) for how to create this file using the following command:
-```sh
-model.save(filepath)
-```
+Usage of `drive.py` requires you have saved the trained model as an h5 file, i.e. `model.h5`. 
 
 Once the model has been saved, it can be used with drive.py using this command:
 
