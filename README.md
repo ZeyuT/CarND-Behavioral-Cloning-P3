@@ -148,7 +148,7 @@ And to augment my dataset, I flipped all these images, as well as steering angle
 
 ![left][image2] ![left_flip][image4]
 
-For the images from the left, right cameras, I set a collection value to calculate corresponding steering angles based on steering angles in ¡®driving_log.csv¡¯, which were the steering angles for the center cameras. Here is the formula:
+For the images from the left, right cameras, I set a collection value to calculate corresponding steering angles based on steering angles in _driving_log.csv_, which were the steering angles for the center cameras. Here is the formula:
 
 _angle_left = angle_center + correction_
 
